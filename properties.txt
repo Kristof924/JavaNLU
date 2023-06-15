@@ -1,0 +1,10 @@
+intent: greeting
+ex: hi, hello, whats up, mizu, szia
+intent: bye
+ex: bye, see you, nem, viszontlatasra
+intent: rendeles
+ex: rendelni, rendeles, rendelek
+intent: asztalfoglalas
+ex: foglalás, foglalni, foglalt
+intent: food
+ex: pizzát, spaghetti, carbonara

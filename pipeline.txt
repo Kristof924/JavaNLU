@@ -1,0 +1,12 @@
+greeting: n
+response: Szia, miben segíthetek?;Szia, örülök, hogy írsz, miben segíthetek?
+bye: n
+response: Örülök, hogy segíthettem;viszlát!
+rendeles:food
+food:type,size
+food_tpye: "Mit szeretnél rendelni?"
+food_size: pizza:"Mekkora legyen a pizza? Van 32 cm és 28 cm.";carbonara:"Kicsi vagy nagy adag legyen a Carbonara?"
+
+
+
+

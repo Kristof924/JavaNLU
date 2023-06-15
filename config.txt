@@ -1,0 +1,5 @@
+greeting: -l
+bye: -l
+rendeles: -h
+asztalfoglalas: -h
+food: -m

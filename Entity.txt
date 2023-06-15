@@ -1,0 +1,2 @@
+food_tpye:pizza,spaghetti,carbonara
+food_size:tpye_pizza: 32cm, 28cm;type_carbonara: kicsi, nagy;
